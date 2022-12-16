@@ -1,6 +1,6 @@
 # **FFT**
 Implementation of discrete fourier transorm, forward and backward methods using complex numbers.\
-complex numbers class was implemented inside.
+complex numbers class was implemented inside.\
 written in cpp with minimal modification required to use the methods in c.
 
 
